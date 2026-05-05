@@ -1,6 +1,6 @@
 # wt901c485_imu — ROS2 Humble driver for WitMotion WT901C-485
 
-フルスクラッチのROS2 Humbleパッケージです。  
+WT901C-485のROS2 Humbleパッケージです。  
 USB-RS485変換アダプタ経由でWT901C-485をModbus RTUで読み取り、
 `sensor_msgs/Imu` と `sensor_msgs/MagneticField` をパブリッシュします。
 
